@@ -1,6 +1,6 @@
 # 使用conda配置cs231n环境
 
-此文档作为 [@weijianxian](https://github.com/weijianxian/cs231n-25) 的补充，原文只提供了使用python的uv虚拟环境配置，但是conda作为配置工具比python原生更为优秀，因此在此补充使用conda配置cs231n环境。
+此文档作为 [@weijianxian](https://github.com/weijianxian/cs231n-25) 的补充，原文只提供了使用python的uv和venv的虚拟环境配置，但是conda依然是一个主流配置工具，因此在此补充使用conda配置cs231n环境。
 
 1. 首先我们去官网下载安装conda，[官网地址](https://www.anaconda.com/docs/getting-started/main)
 2. 如果有需要，使用以下命令更新conda
