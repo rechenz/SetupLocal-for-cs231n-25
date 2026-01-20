@@ -21,3 +21,5 @@
    ```
 
 PS：conda的虚拟环境是储存在你的conda安装目录下的envs文件夹中的，因此我们只需要在需要使用虚拟环境时激活即可，不需要考虑我们的虚拟环境文件存放问题。
+
+另外，仓库中的 requirements.txt 文件我无法保证包含所有需要的库，在a3中官方为你提供了一个requirements.txt文件，但是仍然不清楚是否可以兼容a1和a2，并且cs231n纯粹只考虑了Linux环境，我仍然无法保证a3给的环境文件可以在windows环境下运行，所以请关注[@weijianxian](https://github.com/weijianxian/cs231n-25)的仓库更新，想用conda只需要了解上述命令即可。
